@@ -2,7 +2,7 @@
 
 ## A passionate Web Developer from Brazil. :brazil::computer:
 
-* 🌍  I'm based in Belo Horizonte, BH - Brazil.
+* 🌍  I'm based in Brasília, DF - Brazil.
 * ✉️  You can contact me [here](mailto:weslianebsb2@gmail.com)
 
 ### 👨🏻‍💻 About Me
