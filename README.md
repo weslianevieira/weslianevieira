@@ -7,11 +7,9 @@
 
 ### 👨🏻‍💻 About Me
 
-I'm an enthusiastic full stack developer student. Started my programming journey in 2022.
+I am a front-end web developer who graduated from the Full Stack Web Development bootcamp at Labenu, where I had the opportunity to improve my technical skills and develop incredible projects. Moreover, I have been passionate about technology for as long as I can remember, and I discovered that this passion only grew when I went through a sensitive moment in my life - I was sick and needing a bone marrow transplant. Fortunately, the procedure was a success, and I was able to dedicate myself fully to my love for technology.
 
-#### ➕ Fun Fact: I started coding to pass time during my pre bone marrow transplant and now during the hospital follow-up. 
-✨ Go SUS! ✨  - SUS (Sistema Único de Saúde - Unified Health System) is a health care model with full coverage to every citizen in Brazil. <br/>
-They gave me a second life, a second chance! 
+Among my technical skills, I highlight my knowledge in HTML, CSS, JavaScript, React JS (including React Hooks), Styled-Components, Chakra UI, Material UI, and API Rest. I am always looking for new challenges and learning opportunities in web development, and I like to use my free time to watch videos and search for materials that can help me be more agile and productive in my cyber journey. I believe that the digital world has a lot to offer, and I am excited to continue exploring it.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -29,7 +27,8 @@ They gave me a second life, a second chance!
 
 ### Social Medias
 <p align="left">
-  <a href="https://www.github.com/weslianevieira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a><a href="http://www.instagram.com/annes.vieira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a><a href="https://www.linkedin.com/in/weslianevieira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <a href="https://www.github.com/weslianevieira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+ <a href="https://www.linkedin.com/in/weslianevieira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
 
 
