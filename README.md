@@ -1,19 +1,25 @@
-# Oi:exclamation::octocat: My name is Wesliane Vieira, but you can call me Anne!
+# Welcome to My GitHub Profile!
 
-## A passionate Web Developer from Brazil. :brazil::computer:
+## A Web Developer from Brazil. :brazil::computer:
 
 * 🌍  I'm based in Brasília, DF - Brazil.
 * ✉️  You can contact me [here](mailto:weslianebsb2@gmail.com)
 
 ### 👨🏻‍💻 About Me
 
-I am a front-end web developer who graduated from the Full Stack Web Development bootcamp at Labenu, where I had the opportunity to improve my technical skills and develop incredible projects. Moreover, I have been passionate about technology for as long as I can remember, and I discovered that this passion only grew when I went through a sensitive moment in my life - I was sick and needing a bone marrow transplant. Fortunately, the procedure was a success, and I was able to dedicate myself fully to my love for technology.
+Hey there! I'm a front-end web developer with a passion for crafting amazing user experiences. Graduating from the Full Stack Web Development bootcamp at Labenu, I've had the privilege of honing my technical skills and working on some incredible projects. But what truly fuels my passion for technology goes beyond the realm of code.
 
-Among my technical skills, I highlight my knowledge in HTML, CSS, JavaScript, React JS (including React Hooks), Styled-Components, Chakra UI, Material UI, and API Rest. I am always looking for new challenges and learning opportunities in web development, and I like to use my free time to watch videos and search for materials that can help me be more agile and productive in my cyber journey. I believe that the digital world has a lot to offer, and I am excited to continue exploring it.
+###  💪🏽 A Journey of Resilience & Embracing the Digital World
+
+Life has a way of teaching us valuable lessons, and for me, it came in the form of a challenging moment. I found myself battling a serious illness, desperately needing a bone marrow transplant. Miraculously, the procedure was successful, and it was during this time that my love for technology grew exponentially.
+
+Through my recovery, I discovered the boundless possibilities that technology offers. It became a source of inspiration and an avenue to create meaningful change. The digital world presented me with the chance to bring ideas to life, solve problems, and make a positive impact.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 Tech Stack
+
+With a strong foundation in web development, I specialize in front-end technologies. Here are some of the skills I've acquired:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -21,22 +27,19 @@ Among my technical skills, I highlight my knowledge in HTML, CSS, JavaScript, Re
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![API RESTful](https://img.shields.io/badge/-RESTful-05122A?style=flat&logo=rest)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-### Social Medias
+### Social Media
 <p align="left">
   <a href="https://www.github.com/weslianevieira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
  <a href="https://www.linkedin.com/in/weslianevieira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
 
 
-### ⚙️ GitHub Analytics
+### ⚙️ A Continuous Growth
 
-<p align="left">
-<a href="https://github.com/weslianevieira">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=weslianevieira&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-</p>
+I'm always seeking new challenges and learning opportunities in the realm of web development. During my free time, I indulge in watching informative videos and exploring materials that enhance my agility and productivity on this cyber journey. I firmly believe that the digital world is an endless source of innovation and inspiration, and I'm thrilled to continue exploring it.
 
