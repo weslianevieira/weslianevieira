@@ -1,13 +1,13 @@
 # Welcome to My GitHub Profile!
 
-## A Web Developer from Brazil. :brazil::computer:
+## A Full Stack Web Developer from Brazil. :brazil::computer:
 
 * 🌍  I'm based in Brasília, DF - Brazil.
 * ✉️  You can contact me [here](mailto:weslianebsb2@gmail.com)
 
 ### 👨🏻‍💻 About Me
 
-Hey there! I'm a front-end web developer with a passion for crafting amazing user experiences. Graduating from the Full Stack Web Development bootcamp at Labenu, I've had the privilege of honing my technical skills and working on some incredible projects. But what truly fuels my passion for technology goes beyond the realm of code.
+Hey there! I'm a full stack web developer with a passion for crafting amazing user experiences. Graduating from the Full Stack Web Development bootcamp at Labenu, I've had the privilege of honing my technical skills and working on some incredible projects. But what truly fuels my passion for technology goes beyond the realm of code.
 
 ###  💪🏽 A Journey of Resilience & Embracing the Digital World
 
@@ -19,7 +19,7 @@ Through my recovery, I discovered the boundless possibilities that technology of
 
 ### 🛠 Tech Stack
 
-With a strong foundation in web development, I specialize in front-end technologies. Here are some of the skills I've acquired:
+With a strong foundation in web development, I specialize in full stack technologies. Here are some of the skills I've acquired:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
